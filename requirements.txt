@@ -10,7 +10,7 @@ cloudpickle==1.4.1
 configparser==4.0.2
 cryptography==2.1.4
 databricks-cli==0.10.0
-Django==3.0.5
+Django==3.0.7
 djangorestframework==3.11.0
 docker==4.2.0
 docutils==0.15.2
