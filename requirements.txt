@@ -30,7 +30,7 @@ keyrings.alt==3.0
 Mako==1.1.2
 MarkupSafe==1.1.1
 minio==5.0.7
-mlflow==1.8.0
+mlflow==1.23.1
 numpy==1.18.4
 pandas==1.0.3
 prometheus-client==0.7.1
