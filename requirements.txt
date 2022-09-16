@@ -27,7 +27,7 @@ Jinja2==2.11.2
 jmespath==0.9.4
 keyring==10.6.0
 keyrings.alt==3.0
-Mako==1.1.2
+Mako==1.2.2
 MarkupSafe==1.1.1
 minio==5.0.7
 mlflow==1.8.0
