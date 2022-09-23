@@ -35,7 +35,7 @@ numpy==1.18.4
 pandas==1.0.3
 prometheus-client==0.7.1
 prometheus-flask-exporter==0.13.0
-protobuf==3.11.3
+protobuf==3.18.3
 pycrypto==2.6.1
 pygobject==3.26.1
 python-apt==1.6.5+ubuntu0.2
